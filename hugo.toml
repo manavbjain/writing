@@ -1,0 +1,31 @@
+baseURL = 'https://manavjain.sh/'
+languageCode = 'en-us'
+title = 'Digital Garden'
+theme = 'nightfall'
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 1
+    url = "posts"
+  [[menu.header]]
+    name = "notes"
+    weight = 2
+    url = "notes"
+    
+
+[params]
+user = "reader"
+hostname = "manavjain.sh"
+  [params.author]
+    name = "Manav Jain"  # Website and RSS feed author
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "the other me"
+url = "https://manavjain.com"
+
+
