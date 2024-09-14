@@ -1,4 +1,4 @@
-baseURL = 'https://manavjain.sh/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Digital Garden'
 theme = 'nightfall'
