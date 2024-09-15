@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = '//manavjain.sh/'
 languageCode = 'en-us'
 title = 'Digital Garden'
 theme = 'nightfall'
@@ -23,9 +23,9 @@ hostname = "manavjain.sh"
 readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
 
-[[params.social]]
-key = 0
-name = "the other me"
-url = "https://manavjain.com"
+#[[params.social]]
+#key = 0
+#name = "the other me"
+#url = "https://manavjain.com"
 
 
