@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Digital Garden</title>
-    <link>/posts/</link>
+    <link>//manavjain.sh/posts/</link>
     <description>Recent content in Posts on Digital Garden</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//manavjain.sh/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

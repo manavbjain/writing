@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//manavjain.sh/</loc>
     <lastmod>2024-09-14T17:53:31-04:00</lastmod>
   </url><url>
-    <loc>/technical_writing/my-first-technical-writing/</loc>
+    <loc>//manavjain.sh/technical_writing/my-first-technical-writing/</loc>
     <lastmod>2024-09-14T17:53:31-04:00</lastmod>
   </url><url>
-    <loc>/notes/</loc>
+    <loc>//manavjain.sh/notes/</loc>
     <lastmod>2024-09-14T17:53:31-04:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>//manavjain.sh/posts/</loc>
     <lastmod>2024-09-14T17:53:31-04:00</lastmod>
   </url><url>
-    <loc>/technical_writing/</loc>
+    <loc>//manavjain.sh/technical_writing/</loc>
     <lastmod>2024-09-14T17:53:31-04:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//manavjain.sh/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//manavjain.sh/tags/</loc>
   </url>
 </urlset>
