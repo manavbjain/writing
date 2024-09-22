@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Digital Garden</title>
+    <title>Posts on Manav Jain</title>
     <link>//manavjain.sh/posts/</link>
-    <description>Recent content in Posts on Digital Garden</description>
+    <description>Recent content in Posts on Manav Jain</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 17:53:31 -0400</lastBuildDate>
     <atom:link href="//manavjain.sh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 1: Introduction</title>
+      <link>//manavjain.sh/posts/one/</link>
+      <pubDate>Sat, 14 Sep 2024 17:53:31 -0400</pubDate>
+      <guid>//manavjain.sh/posts/one/</guid>
+      <description>&lt;p&gt;This site was long overdue but better late than never, right? Welcome to my slice on the World Wide Web. This is where I plan to share cool projects, things, and events from my everyday life. Along with this site being a blog, I intend to use this space as a digital garden and a personal wiki.&lt;/p&gt;&#xA;&lt;p&gt;I plan to also write technical guides on my setup, cool tools, walkthroughs of TryHackMe/Hack the Box, and much more.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Digital Garden</title>
+    <title>Manav Jain</title>
     <link>//manavjain.sh/</link>
-    <description>Recent content on Digital Garden</description>
+    <description>Recent content on Manav Jain</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Sep 2024 17:53:31 -0400</lastBuildDate>
@@ -14,6 +14,13 @@
       <pubDate>Sat, 14 Sep 2024 17:53:31 -0400</pubDate>
       <guid>//manavjain.sh/technical_writing/my-first-technical-writing/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post 1: Introduction</title>
+      <link>//manavjain.sh/posts/one/</link>
+      <pubDate>Sat, 14 Sep 2024 17:53:31 -0400</pubDate>
+      <guid>//manavjain.sh/posts/one/</guid>
+      <description>&lt;p&gt;This site was long overdue but better late than never, right? Welcome to my slice on the World Wide Web. This is where I plan to share cool projects, things, and events from my everyday life. Along with this site being a blog, I intend to use this space as a digital garden and a personal wiki.&lt;/p&gt;&#xA;&lt;p&gt;I plan to also write technical guides on my setup, cool tools, walkthroughs of TryHackMe/Hack the Box, and much more.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

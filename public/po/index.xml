@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poes on Digital Garden</title>
+    <link>//localhost:1313/po/</link>
+    <description>Recent content in Poes on Digital Garden</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Sep 2024 17:53:31 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/po/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 1: Introduction</title>
+      <link>//localhost:1313/po/post_1/</link>
+      <pubDate>Sat, 14 Sep 2024 17:53:31 -0400</pubDate>
+      <guid>//localhost:1313/po/post_1/</guid>
+      <description>&lt;p&gt;This site was long overdue but better late than never, right? Welcome to my digital garden of sorts on the World Wide Web This is where I plan to share cool projects, events, things from my everday life. Along with this site being a blog, I intend to use this space as a &lt;a href=&#34;https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/&#34;&gt;digital garden&lt;/a&gt; and a personal wiki.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

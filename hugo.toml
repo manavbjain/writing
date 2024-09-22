@@ -1,27 +1,30 @@
 baseURL = '//manavjain.sh/'
 languageCode = 'en-us'
-title = 'Digital Garden'
+title = "Manav Jain"
 theme = 'nightfall'
 
 [menu]
   [[menu.header]]
-    name = "posts"
+    name = "blog"
     weight = 1
     url = "posts"
   [[menu.header]]
-    name = "notes"
+    name = "wiki"
     weight = 2
     url = "notes"
+  #[[menu.header]]
+    #name = "technical_writing"
+    #weight = 3
+    #url = "technical_writing"
     
 
 [params]
 user = "reader"
 hostname = "manavjain.sh"
+favicon = "favicon.ico"
   [params.author]
     name = "Manav Jain"  # Website and RSS feed author
-
-readingTime = true  # Show reading time on post page
-published = true  # Show published data on post page
+ 
 
 #[[params.social]]
 #key = 0

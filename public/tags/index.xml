@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Digital Garden</title>
+    <title>Tags on Manav Jain</title>
     <link>//manavjain.sh/tags/</link>
-    <description>Recent content in Tags on Digital Garden</description>
+    <description>Recent content in Tags on Manav Jain</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//manavjain.sh/tags/index.xml" rel="self" type="application/rss+xml" />
